@@ -1,3 +1,4 @@
+git pull
 git add .
 git commt -m
 git push
